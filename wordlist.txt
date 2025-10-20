@@ -20820,6 +20820,7 @@ cide
 Cidecin
 Cidex
 cidofovir
+CIDP
 CIE
 Ciel
 CIF
